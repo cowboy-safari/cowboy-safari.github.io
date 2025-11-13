@@ -3,5 +3,45 @@
         "name": "Cowboy Safari",
         "slug": "cowboy-safari",
         "image": "/cache/data/image/game/cowboy-safari/cowboysafari-m186x186.webp"
+    },
+    {
+        "name": "Rodeo Stampede",
+        "slug": "rodeo-stampede",
+        "image": "/cache/data/image/game/rodeo-stampede/rodeo-stampede-m186x186.webp"
+    },
+    {
+        "name": "Rodeo Stampede: Sky Zoo Safari",
+        "slug": "rodeo-stampede-sky-zoo-safari",
+        "image": "/cache/data/image/game/rodeo-stampede-sky-zoo-safari/rodeo-stampede-sky-zoo-safari-m186x186.webp"
+    },
+    {
+        "name": "Super Cowboy Run",
+        "slug": "super-cowboy-run",
+        "image": "/cache/data/image/game/super-cowboy-run/super-cowboy-run-m186x186.webp"
+    },
+    {
+        "name": "Crazy Cowboy Go",
+        "slug": "crazy-cowboy-go",
+        "image": "/cache/data/image/game/crazy-cowboy-go/crazy-cowboy-go-m186x186.webp"
+    },
+    {
+        "name": "Temple Runner",
+        "slug": "temple-runner",
+        "image": "/cache/data/image/game/temple-runner/temple-runner-m186x186.webp"
+    },
+    {
+        "name": "Deer Adventure",
+        "slug": "deer-adventure",
+        "image": "/cache/data/image/game/deer-adventure/deer-adventure-m186x186.webp"
+    },
+    {
+        "name": "Kong Adventure",
+        "slug": "kong-adventure",
+        "image": "/cache/data/image/game/kong-adventure/kong-adventure-m186x186.webp"
+    },
+    {
+        "name": "Zoo Run",
+        "slug": "zoo-run",
+        "image": "/cache/data/image/game/zoo-run/zoo-run-1-m186x186.webp"
     }
 ]
